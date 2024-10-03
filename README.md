@@ -1,1 +1,2 @@
-"# nailadib" 
+# eng chat app 
+ This real-time chat application allows engineering students to communicate instantly with each other and providing immediate communication with real-time messaging updates and improving collaborations and interactions. It allows the users to log in and log out with email, name, and status, and , sign up with validation, (valid email), search user by its name ,automatic scroll to the latest message in the chat, notification of user if it is online or offline status.
